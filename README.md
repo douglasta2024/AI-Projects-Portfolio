@@ -20,7 +20,7 @@ This project aimed to create a multi-modal application that would allow users to
 
 This project was originally built during IBM's UF Hackathon in the Fall of 2024. The goal of this project was to assist people in need during hurricane season and increase treefall awareness in Florida. Resilitree utilizes a CNN as the backbone of the architecture to classify common Florida trees that are susceptable to treefall during hurricane season. Traits such as leaf foiliage and holes in the base of the tree are some common traits that helped Resilitree identify if a tree needed to be secured before a hurricane.
 
-### [Augmented Stock Market AI Assistant](https://github.com/douglasta2024/ResiliTree) *---In Progress---*
+### [Augmented Stock Market AI Assistant](https://github.com/douglasta2024/Augmented-Stock-Market-AI-Assistant) *---In Progress---*
 **Tags:** Stock Market, NLP, RAG, Machine Learning, Web Scraping
 
 **Frameworks/Languages:** Python, Google ADK, React, Selenium
