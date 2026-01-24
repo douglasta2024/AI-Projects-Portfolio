@@ -28,7 +28,7 @@ This project explores the use of deep learning models to classify fish species, 
 
 This project aimed to create a multi-modal application that would allow users to interact with drones through speech commands alone. The foundation deep learning model, Wav2Vec2, that was utilzized in this project combined a transformer and CNN to achieve audio to text classification. The transformer from this model was responsible for converting the audio data into signals for the CNN to perform classification onto. A link to a video demonstration is provided in the repository.
 
-### [Augmented Stock Market AI Assistant](https://github.com/douglasta2024/Augmented-Stock-Market-AI-Assistant) *---In Progress---*
+### [Fiscal IQ](https://github.com/douglasta2024/Augmented-Stock-Market-AI-Assistant) *---In Progress---*
 **Tags:** Stock Market, NLP, RAG, Machine Learning, Web Scraping
 
 **Frameworks/Languages:** Python, Google ADK, React, Selenium
