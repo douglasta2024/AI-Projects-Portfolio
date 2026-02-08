@@ -1,7 +1,7 @@
 # AI-Project-Portfolio
 This is a collection of all the projects I have done related to AI, Data Science, and Software Engineering. I update this on a regular basis.
 
-**Email:** douglas.ta@ufl.edu
+**Email:** douglas.duc.ta@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/douglas-ta/
 
