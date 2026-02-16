@@ -35,4 +35,11 @@ This project aimed to create a multi-modal application that would allow users to
 
 The purpose of this project to make stock market research more accessible to its users by serving information about the current state of markets through an agentic workflow.
 
+### [Agentic Data Analysis Tool](https://github.com/douglasta2024/Agentic-Data-Analysis-Tool) *---In Progress---*
+**Tags:** Data, Multi-Agent
+
+**Frameworks/Languages:** Python, Anthropic Agents
+
+The purpose of this project to build a automated multi-agent data analysis tool.
+
 
