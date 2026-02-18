@@ -28,18 +28,18 @@ This project explores the use of deep learning models to classify fish species, 
 
 This project aimed to create a multi-modal application that would allow users to interact with drones through speech commands alone. The foundation deep learning model, Wav2Vec2, that was utilzized in this project combined a transformer and CNN to achieve audio to text classification. The transformer from this model was responsible for converting the audio data into signals for the CNN to perform classification onto. A link to a video demonstration is provided in the repository.
 
+### [Agentic Data Analysis Tool](https://github.com/douglasta2024/Agentic-Data-Analysis-Tool)
+**Tags:** Data, Multi-Agent
+
+**Frameworks/Languages:** Python, Anthropic Agents
+
+The purpose of this project to build a automated multi-agent data analysis tool.
+
 ### [Fiscal IQ](https://github.com/douglasta2024/Fiscal-IQ) *---In Progress---*
 **Tags:** Stock Market, NLP, RAG, Machine Learning, Web Scraping
 
 **Frameworks/Languages:** Python, Google ADK, React, Selenium
 
 The purpose of this project to make stock market research more accessible to its users by serving information about the current state of markets through an agentic workflow.
-
-### [Agentic Data Analysis Tool](https://github.com/douglasta2024/Agentic-Data-Analysis-Tool) *---In Progress---*
-**Tags:** Data, Multi-Agent
-
-**Frameworks/Languages:** Python, Anthropic Agents
-
-The purpose of this project to build a automated multi-agent data analysis tool.
 
 
