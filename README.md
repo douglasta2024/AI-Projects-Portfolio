@@ -12,14 +12,14 @@ This is a collection of all the projects I have done related to AI, Data Science
 ### [Youtube to Notion Note Generator](https://github.com/douglasta2024/All-in-One)
 **Tags:** Youtube, Ollama, Claude, Notion, MCP, OpenAI Whisper
 
-**Frameworks/Languages:** Python, TypeScript, JavaScript
+**Languages/Frameworks:** Python, TypeScript, JavaScript
 
 Feature included within the All-in-One application that I am building to house all of my custom tools. The purpose of this feature is to convert multimedia content into structured Notion pages. Currently features a YouTube → Notion pipeline with streaming real-time feedback.
 
 ### [Agentic Data Analysis Tool](https://github.com/douglasta2024/Agentic-Data-Analysis-Tool)
 **Tags:** Data, Multi-Agent
 
-**Frameworks/Languages:** Python, Anthropic Agents
+**Languages/Frameworks:** Python, Anthropic Agents
 
 The purpose of this project to build a automated multi-agent data analysis tool.
 
