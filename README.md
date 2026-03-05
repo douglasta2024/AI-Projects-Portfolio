@@ -5,6 +5,8 @@ This is a collection of all the projects I have done related to AI, Data Science
 
 **LinkedIn:** https://www.linkedin.com/in/douglas-ta/
 
+**Portfolio** https://douglasta2024.github.io/
+
 ## Projects
 
 ### [UFish](https://github.com/douglasta2024/UFish)
