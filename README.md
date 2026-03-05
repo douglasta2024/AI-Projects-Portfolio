@@ -10,9 +10,9 @@ This is a collection of all the projects I have done related to AI, Data Science
 ## Projects
 
 ### [Youtube to Notion Note Generator](https://github.com/douglasta2024/All-in-One)
-**Tags:** Youtube, Ollama, Claude, Notion, MCP, OpenAI Whisper
+**Tags:** Youtube, Notion, Claude, Notion, MCP, Notebook LM
 
-**Languages/Frameworks:** Python, TypeScript, JavaScript
+**Languages/Frameworks:** Python, TypeScript, JavaScript, NotebookLM MCP
 
 Feature included within the All-in-One application that I am building to house all of my custom tools. The purpose of this feature is to convert multimedia content into structured Notion pages. Currently features a YouTube → Notion pipeline with streaming real-time feedback.
 
