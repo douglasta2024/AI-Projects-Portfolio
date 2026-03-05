@@ -9,12 +9,12 @@ This is a collection of all the projects I have done related to AI, Data Science
 
 ## Projects
 
-### [UFish](https://github.com/douglasta2024/UFish)
-**Tags:** Deep Learning, CNN
+### [Youtube to Notion Note Generator](https://github.com/douglasta2024/All-in-One)
+**Tags:** Youtube, Ollama, Claude, Notion, MCP, OpenAI Whisper
 
-**Languages/Frameworks:** Python
+**Frameworks/Languages:** Python, TypeScript, JavaScript
 
-This project explores the use of deep learning models to classify fish species, interpret model decision-making, and detect and track fish in complex underwater environments. The system combines image classification, model explainability techniques, and real-time object detection to demonstrate an end-to-end computer vision pipeline for marine applications.
+Feature included within the All-in-One application that I am building to house all of my custom tools. The purpose of this feature is to convert multimedia content into structured Notion pages. Currently features a YouTube → Notion pipeline with streaming real-time feedback.
 
 ### [Agentic Data Analysis Tool](https://github.com/douglasta2024/Agentic-Data-Analysis-Tool)
 **Tags:** Data, Multi-Agent
@@ -23,12 +23,12 @@ This project explores the use of deep learning models to classify fish species, 
 
 The purpose of this project to build a automated multi-agent data analysis tool.
 
-### [Youtube to Notion Note Generator](https://github.com/douglasta2024/All-in-One)
-**Tags:** Youtube, Ollama, Claude, Notion, MCP, OpenAI Whisper
+### [UFish](https://github.com/douglasta2024/UFish)
+**Tags:** Deep Learning, CNN
 
-**Frameworks/Languages:** Python, TypeScript, JavaScript
+**Languages/Frameworks:** Python
 
-Feature included within the All-in-One application that I am building to house all of my custom tools. The purpose of this feature is to convert multimedia content into structured Notion pages. Currently features a YouTube → Notion pipeline with streaming real-time feedback.
+This project explores the use of deep learning models to classify fish species, interpret model decision-making, and detect and track fish in complex underwater environments. The system combines image classification, model explainability techniques, and real-time object detection to demonstrate an end-to-end computer vision pipeline for marine applications.
 
 ### [AURA](https://github.com/douglasta2024/AURA)
 **Tags:** Deep Learning, Multi-modal, Transformers, CNN, Electrical Engineering
