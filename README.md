@@ -7,6 +7,10 @@ This is a collection of all the projects I have done related to AI, Data Science
 
 **Portfolio** https://douglasta2024.github.io/
 
+**NextEdge Prep** https://nextedge-prep.vercel.app/
+
+![NextEdge Prep](nextedge.jpg)
+
 ## Projects
 
 ### [All in One](https://github.com/douglasta2024/All-in-One)
